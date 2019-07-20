@@ -34,3 +34,5 @@ This project is for studying machine learning features.
   After this, these feature maps are flattened for fully-connected layer
   but to prevent Overfitting, we can drop out some neurons (normally about 0.25)
   For the output layer, we can use "Soft-max" function to get relative outcome among all outcomes.
+
+More detailed research is written in "document.docx" file, in Korean
